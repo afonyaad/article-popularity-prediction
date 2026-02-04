@@ -1,3 +1,5 @@
+📄 **Full Project Report:** [Download PDF](./Report.pdf)
+
 # Article Popularity Prediction
 
 ## Overview
